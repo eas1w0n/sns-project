@@ -9,5 +9,6 @@
   "bracketSameLine": true,
   "arrowParens": "avoid",
   "vueIndentScriptAndStyle": false,
-  "endOfLine": "auto"
+  "endOfLine": "auto",
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
