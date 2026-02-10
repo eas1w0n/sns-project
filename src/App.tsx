@@ -1,3 +1,7 @@
+import RootRoute from "./root-route";
+
 export default function App() {
-  return <div>react sns project</div>;
+  return (
+    <RootRoute/>
+  )
 }
